@@ -1,5 +1,4 @@
-FUNCTIONAL PROGRAMMING 
-
+    BASIC TERMs
     Functional Programming (FP) in Java has introduced several key features that fundamentally alter how developers write and
     think about code. These features, grounded in the principles of FP, provide developers with powerful tools to create more
     efficient, readable, and maintainable code.
